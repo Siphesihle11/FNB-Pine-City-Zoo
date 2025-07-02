@@ -1,1 +1,2 @@
 # FNB-Pine-City-Zoo
+This beginner-friendly website was developed as part of my journey through the FNB App Academy. As someone new to coding, creating Pine City Zoo was both a learning experience and a creative outlet. I enjoyed applying the foundational web development skills I’ve gained so far, and this project reflects my growing passion for tech and excitement to continue building and learning.
